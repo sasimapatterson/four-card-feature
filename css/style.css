@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: lightpink;
+    margin: 0 auto;
+    width: 85%;
+    text-align: center;
+  }
+  
+.container {
+    background-color: yellow;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;  
+    width: 85%;
+  }
+  
+.mdl {
+    background-color: red;
+    width: 20%;
+  }
+  
+.sup {
+    background-color: salmon;
+    width: 20%;
+    height: auto;
+    
+  }
+  
+.team {
+    background-color: lightgreen;
+    width: 100%;
+    height: auto;
+   
+  }
+  
+.kar {
+    width: 100%;
+    height: auto;
+    background-color: blue;
+  }
+  
+.cal {
+    background-color: lightgray;
+    width: 20%;
+  }
